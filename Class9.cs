@@ -22,7 +22,7 @@ namespace oop_03
                 Console.WriteLine($"Weight          : {Weight} KG");
                 Console.WriteLine($"Delivery Fee    : {DeliveryFee} EGP");
                 Console.WriteLine($"Estimated Cost  : {EstimatedCost} EGP");
-                Console.WriteLine($"Completion Date : {CompletionDate:d}");
+                Console.WriteLine($"Completion Date : {CompletionDate:d}"); 
             }
         }
     
